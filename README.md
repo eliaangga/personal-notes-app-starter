@@ -1,11 +1,14 @@
-# Getting Started with Create React App
+# Personal Notes App - ReactApp
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img width="996" alt="image" src="https://github.com/user-attachments/assets/f1c15cea-01a2-461f-ae1c-75b7272732b0">
 
-## Available Scripts
 
-In the project directory, you can run:
+## Description
 
+### Personal Notes App
+A user-friendly web application for managing personal notes. Users can easily create, view, archive, and delete notes. The app features a responsive design, allowing seamless access on both mobile devices and laptops. With a built-in search function, users can quickly find specific notes, enhancing productivity and organization.
+
+## Get Th Start
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -44,27 +47,3 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
