@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: black;
+}
+
+input::placeholder {
+  color: #a0aec0; 
+  opacity: 1; 
+  transition: color 0.3s ease; 
+}
+
+input:focus::placeholder {
+  color: transparent; 
+}
